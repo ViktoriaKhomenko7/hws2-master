@@ -1,0 +1,34 @@
+.message {
+
+}
+
+.imageAndText {
+
+}
+
+.imageAndText img {
+    width: 48px;
+    height: 48px;
+    border-radius: 48px;
+    background-repeat: no-repeat;
+}
+
+.text {
+
+}
+
+.text:after {
+
+}
+
+.name {
+
+}
+
+.messageText {
+
+}
+
+.time {
+
+}
