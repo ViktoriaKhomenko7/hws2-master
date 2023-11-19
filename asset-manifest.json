@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/css/main.42e04005.css",
+    "main.js": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/js/main.96cbcb6a.js",
+    "static/js/787.66cb4309.chunk.js": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/index.html",
+    "main.42e04005.css.map": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/css/main.42e04005.css.map",
+    "main.96cbcb6a.js.map": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/js/main.96cbcb6a.js.map",
+    "787.66cb4309.chunk.js.map": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42e04005.css",
+    "static/js/main.96cbcb6a.js"
+  ]
+}
