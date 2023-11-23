@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/css/main.42e04005.css",
-    "main.js": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/js/main.96cbcb6a.js",
-    "static/js/787.66cb4309.chunk.js": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/media/avatar.d947cb9d0d13765666b6.png",
-    "index.html": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/index.html",
-    "main.42e04005.css.map": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/css/main.42e04005.css.map",
-    "main.96cbcb6a.js.map": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/js/main.96cbcb6a.js.map",
-    "787.66cb4309.chunk.js.map": "/git@github.com:ViktoriaKhomenko7/hws2-master.git/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/hws2-master/static/css/main.4abc932e.css",
+    "main.js": "/hws2-master/static/js/main.f759db22.js",
+    "static/js/787.66cb4309.chunk.js": "/hws2-master/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/hws2-master/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/hws2-master/index.html",
+    "main.4abc932e.css.map": "/hws2-master/static/css/main.4abc932e.css.map",
+    "main.f759db22.js.map": "/hws2-master/static/js/main.f759db22.js.map",
+    "787.66cb4309.chunk.js.map": "/hws2-master/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42e04005.css",
-    "static/js/main.96cbcb6a.js"
+    "static/css/main.4abc932e.css",
+    "static/js/main.f759db22.js"
   ]
 }
