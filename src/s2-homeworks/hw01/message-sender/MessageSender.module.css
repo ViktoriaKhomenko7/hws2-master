@@ -1,18 +1,20 @@
 .sendForm {
     margin-top: 73px;
     display: flex;
-    gap: 10px;
+    justify-content: space-between;
     align-items:center;
     border-radius: 20px;
     background: #F5F7FB;
     box-shadow: 0 1px 2px 0 rgba(29, 33, 38, 0.10), 0 5px 20px 0 rgba(29, 33, 38, 0.03);
+    min-width: 976px;
 }
 
 .textarea {
-    width: 976px;
+    min-width: 976px;
     background-color: transparent;
     border: none;
     outline: none;
+    padding-left: 15px;
 }
 
 .button {
